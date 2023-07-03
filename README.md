@@ -1,4 +1,4 @@
-# Morning Aroma
+# Coffe-Shop-Store
 
 This is a fake e-commerce website built as a full stack application with the MERN stack and with stripe for the added payment option.
 
@@ -29,7 +29,7 @@ Connecting the back end with the front end. The relationship with them using the
 Clone the project
 
 ```bash
-  git clone https://github.com/RusssianMusketeer/Morning-Aroma.git
+  git clone https://github.com/Alaghrouch/Coffe-Shop-Store.git
 ```
 
 Go to the project directory
@@ -53,8 +53,7 @@ Start the server
 
 ## Demo
 
-https://elegant-hopper-860fd7.netlify.app/
-
+https://morning-coffe-aroma.netlify.app
 
 ## FAQ
 
@@ -64,7 +63,7 @@ This is a fake ecommerce website, create an account and then add the desired pro
 
 ## Authors
 
-- [@Arseni Dmitriev](https://github.com/RusssianMusketeer)
+- [@Alaghrouch bouchaib](https://github.com/Alaghrouch)
 
 
 ## License
